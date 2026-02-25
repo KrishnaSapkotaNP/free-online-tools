@@ -51,5 +51,4 @@ Learn more on the [About page](https://civvy.tech/about).
 
 Have a suggestion or found something broken? I'd love to hear it.
 
-- [Open an issue](https://github.com/KrishnaSapkotaNPI/free-online-tools/issues)
-- Or reach out through the [contact page](https://civvy.tech/contact)
+- Reach out through the [contact page](https://civvy.tech/contact)
