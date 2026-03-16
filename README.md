@@ -129,6 +129,14 @@ All tools run directly in the browser using client-side code.
 
 ---
 
+## Blog / Docs
+
+- **Why Most Students Can't Focus for 25 Minutes (And the Simple Timer Trick That Fixes It)**  
+  A ~1200-word student-focused guide on the Pomodoro technique — why 25-minute focus blocks work, common pitfalls, and a step-by-step implementation.  
+  📄 [`docs/blog/why-students-cant-focus-pomodoro-timer-trick.doc`](docs/blog/why-students-cant-focus-pomodoro-timer-trick.doc)
+
+---
+
 ## Feedback
 
 Have suggestions or found a bug?
