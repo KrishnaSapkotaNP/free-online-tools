@@ -1,137 +1,102 @@
 # Free Online Tools
 
-A curated collection of free, browser-based utilities available at **https://www.civvy.tech**.
+Most people open five browser tabs just to do one simple calculation. There's a better way.
 
-These tools are designed to be simple, fast, and privacy-friendly.
-
-**No login. No ads. No installation.**
-
-Just open the tool and use it.
+**[Civvy.tech](https://www.civvy.tech)** — every tool runs in your browser, no login, no install, no nonsense.
 
 ---
 
-## About Civvy
+## The Problem With "Just Google It"
 
-[Civvy.tech](https://www.civvy.tech) is a collection of lightweight online tools built to solve everyday problems quickly.
+I once bought 100 tiles for a 100 sq. ft. bathroom. Ran out on the last row. The guy at the hardware store in Koramangala shrugged and said, "You should have added 10% for waste." Nobody told me that. A ₹5,000 mistake turned into a half-day re-run. If I had plugged my room dimensions into a proper [Tile Calculator](https://www.civvy.tech/home-tools/tile-calculator) first, I'd have been done by noon.
 
-Instead of downloading apps or dealing with complicated interfaces, every tool works directly in your browser.
-
-All tools are designed to be:
-
-- Simple and distraction-free  
-- Fast to load  
-- Mobile friendly  
-- Privacy focused  
-
-Learn more on the About page:  
-https://www.civvy.tech/about
+That's the gap Civvy fills.
 
 ---
 
-## Available Tools
+## What's in Here
 
-### Developer Tools
+### 🧑‍💻 Developer Tools
 
-- **Regex Tester**  
-  Test and debug regular expressions with real-time highlighting.  
-  https://www.civvy.tech/dev-tools/regex-tester
+**[Regex Tester](https://www.civvy.tech/dev-tools/regex-tester)**
+Write it once, break it immediately. Paste your pattern and watch it highlight matches in real-time — no more copy-pasting into a Python shell to check if `\d{4}-\d{2}-\d{2}` actually catches your dates.
 
-- **JSON to CSV Converter**  
-  Convert JSON data into a clean CSV format instantly.  
-  https://www.civvy.tech/dev-tools/json-csv
+**[JSON to CSV Converter](https://www.civvy.tech/dev-tools/json-csv)**
+Your API returns 3,000 records of nested JSON. Your manager wants an Excel sheet by 3 PM. Done in four clicks.
 
-- **Color Converter**  
-  Convert between HEX, RGB, and HSL color formats.  
-  https://www.civvy.tech/dev-tools/color-converter
+**[Color Converter](https://www.civvy.tech/dev-tools/color-converter)**
+Flip between HEX, RGB, and HSL without opening Figma just to check a single value.
 
 ---
 
-### Home & Construction Tools
+### 🏗️ Home & Construction Tools
 
-- **Tile Calculator**  
-  Estimate how many tiles are needed for flooring projects.  
-  https://www.civvy.tech/home-tools/tile-calculator
+**[Tile Calculator](https://www.civvy.tech/home-tools/tile-calculator)**
+Don't be the person who buys exactly the right amount. Add your room dimensions, account for waste, and get the number that actually accounts for cuts and breakage.
 
-- **Tile Cost Calculator**  
-  Calculate the total cost of tiles based on area and price.  
-  https://www.civvy.tech/home-tools/tile-cost-calculator
+**[Tile Cost Calculator](https://www.civvy.tech/home-tools/tile-cost-calculator)**
+Because "roughly ₹45 per tile" times "I think around 200 tiles" is how budgets blow up.
 
-- **Concrete Calculator**  
-  Estimate concrete volume for slabs and construction projects.  
-  https://www.civvy.tech/home-tools/concrete-calculator
+**[Concrete Calculator](https://www.civvy.tech/home-tools/concrete-calculator)**
+Slabs, columns, footings — punch in the dimensions and get cubic meters before you call the ready-mix truck. Under-ordering is a two-day delay. Over-ordering is money left hardening on the road.
 
-- **Paint Calculator**  
-  Calculate the amount of paint required for walls and rooms.  
-  https://www.civvy.tech/home-tools/paint-calculator
+**[Paint Calculator](https://www.civvy.tech/home-tools/paint-calculator)**
+Two coats, minus the doors and windows. Get the actual liters, not a guess.
 
 ---
 
-### Student Tools
+### 🎓 Student Tools
 
-- **VTU SGPA Calculator**  
-  Calculate semester GPA under the VTU grading system.  
-  https://www.civvy.tech/vtu-sgpa/vtu-sgpa-calculator
+**[VTU SGPA Calculator](https://www.civvy.tech/vtu-sgpa/vtu-sgpa-calculator)**
+Here's what most VTU students get wrong: a single credit in a heavy subject like *Design of Machine Elements* (4 credits) can swing your SGPA by 0.3–0.5 points compared to a 2-credit elective with the same grade. Punch in your credits and grades — don't let a spreadsheet mistake kill your CGPA target at the end of sem.
 
-- **Pomodoro Timer**  
-  Minimal focus timer designed for study sessions.  
-  https://www.civvy.tech/vtu-sgpa/pomodoro
+**[Pomodoro Timer](https://www.civvy.tech/vtu-sgpa/pomodoro)**
+25 minutes on. 5 minutes off. The same technique used by students grinding near PESU and RV College library during exam week. No sign-up, no distraction mode upsells.
 
 ---
 
-### Finance Tools
+### 💸 Finance Tools
 
-- **Loan Calculator**  
-  Estimate monthly loan payments and total interest.  
-  https://www.civvy.tech/finance-tools/loan-calculator
+**[Loan Calculator](https://www.civvy.tech/finance-tools/loan-calculator)**
+The bank shows you the EMI. This shows you the total interest — the number they bury in the footnotes.
 
-- **Currency Converter**  
-  Convert currencies quickly using current exchange rates.  
-  https://www.civvy.tech/finance-tools/currency-converter
+**[Currency Converter](https://www.civvy.tech/finance-tools/currency-converter)**
+Quick conversion using live exchange rates. Useful when you're pricing freelance work for an international client and don't want to lose 8% to a bad mental math estimate.
 
 ---
 
-### Health Tools
+### 🏃 Health Tools
 
-- **BMI Calculator**  
-  Calculate Body Mass Index based on height and weight.  
-  https://www.civvy.tech/health-tools/bmi-calculator
+**[BMI Calculator](https://www.civvy.tech/health-tools/bmi-calculator)**
+Not perfect, but it's a starting point. Enter height and weight, get your number, decide if it's worth a trip to the doctor.
 
-- **Sleep Calculator**  
-  Find the best time to sleep or wake based on sleep cycles.  
-  https://www.civvy.tech/health-tools/sleep-calculator
+**[Sleep Calculator](https://www.civvy.tech/health-tools/sleep-calculator)**
+Sleep works in 90-minute cycles. Wake up mid-cycle and you feel wrecked even after 7 hours. This tells you the exact times to set your alarm so you're waking up between cycles, not through one.
 
 ---
 
-### Brain & Reaction Games
+### 🎮 Reaction Time & Games
 
-- **Reaction Time Test**  
-  Measure how quickly you react to visual signals.  
-  https://www.civvy.tech/reaction-time-games/reaction-test
+**[Reaction Time Test](https://www.civvy.tech/reaction-time-games/reaction-test)**
+Average human reaction time: 250ms. A trained F1 driver gets it down to 180ms. Where do you land?
 
-- **F1 Reaction Time Game**  
-  Inspired by Formula 1 race start lights.  
-  https://www.civvy.tech/reaction-time-games/f1-reaction-time
+**[F1 Reaction Time Game](https://www.civvy.tech/reaction-time-games/f1-reaction-time)**
+Five lights. They go out. You hit the button. It's annoyingly addictive once you're trying to beat your own time.
 
-- **Aim Trainer**  
-  Practice accuracy and reaction speed.  
-  https://www.civvy.tech/reaction-time-games/aim-trainer
+**[Aim Trainer](https://www.civvy.tech/reaction-time-games/aim-trainer)**
+Click the targets. Miss fewer. It's not a game — it's a drill.
 
 ---
 
-## Highlights
+## Why No Login, No Ads
 
-- **Free to use**
-- **No login required**
-- **No tracking or data storage**
-- **Mobile friendly**
+Simple. No server-side processing means no reason to store your data. These tools run entirely in your browser using client-side code. Nothing leaves your machine.
 
-All tools run directly in the browser using client-side code.
+No account. No tracking. No upsell after trial.
 
 ---
 
 ## Feedback
 
-Have suggestions or found a bug?
-
-Contact:  
+Found a bug? Got a tool idea? Hit the contact page:
 https://www.civvy.tech/contact
